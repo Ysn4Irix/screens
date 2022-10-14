@@ -1,7 +1,7 @@
 {
 	"name": "screens",
 	"version": "1.0.0",
-	"description": "A web application for getting screenshots of any website using the screens-api",
+	"description": "A web application for getting screenshots of any website with custom dimensions using the screens-api",
 	"private": true,
 	"author": {
 		"name": "Ysn4Irix",
