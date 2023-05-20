@@ -29,7 +29,7 @@
 
 		const apiUrl =
 			process.env.NODE_ENV === 'production'
-				? 'https://screens.ysnirix.live/api/screenshot'
+				? 'https://screens-api.su.ysnirix.live/api/screenshot'
 				: 'http://localhost:4444/api/screenshot'
 
 		try {
