@@ -36,7 +36,7 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"dependencies": {
-		"@sveltejs/adapter-vercel": "^1.0.0-next.79",
+		"@sveltejs/adapter-vercel": "^2.3.0",
 		"daisyui": "^2.31.0"
 	},
 	"devDependencies": {
