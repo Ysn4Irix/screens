@@ -36,11 +36,10 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"dependencies": {
-		"@sveltejs/adapter-vercel": "^2.3.0",
+		"@sveltejs/adapter-node": "next",
 		"daisyui": "^2.31.0"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"autoprefixer": "^10.4.12",
 		"postcss": "^8.4.18",
